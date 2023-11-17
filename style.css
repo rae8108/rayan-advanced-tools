@@ -112,4 +112,8 @@ p {
     text-align: center;
     margin: 0 20px;
   }
+
+  .none {
+    text-align: center;
+  }
 }
